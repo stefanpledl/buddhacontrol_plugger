@@ -20,18 +20,15 @@ This repository contains the open-source firmware for DIY enthusiasts who want t
 ## Required Hardware
 
 ### For Plugger Pro:
-- ESP32 CYD (ESP32 with integrated display)
-- SHT40 temperature and humidity sensor
-- Smart plug (WiFi-enabled)
-- Power supply
-- Enclosure
+- ESP32 CYD with USB-C
 
 ### For Plugger Mini:
-- ESP32-C3 microcontroller
+- ESP32-C3 
+
+### Common Components:
 - SHT40 temperature and humidity sensor
-- Smart plug (WiFi-enabled)
-- Power supply
-- Enclosure
+- Smart plug (WiFi-enabled) currently only Shelly Plugs are supported
+- Enclosure (optional)
 
 ## SHT40 Sensor Connection
 
@@ -63,6 +60,7 @@ To set up and configure your Plugger device:
 ## Features
 
 - Precise temperature and humidity control
+- Cloud-based storage of settings and device information
 - Smart drying cycles for optimal curing
 - Long-term storage mode
 - WiFi connectivity for remote monitoring
