@@ -38,12 +38,17 @@ For Plugger Pro (ESP32 CYD) connect to JSP connector CN1:
 - GND: Black wire
 - 3V: Red wire
 - IO22: Yellow wire (SDA)
-- IO27: White wire (SCL)
+- IO27: White/Blue wire (SCL)
+
+For Plugger Mini (ESP32 CYD) connect to JSP connector CN1:
+- GND: Black wire
+- 3V: Red wire
+- IO3: Yellow wire (SDA)
+- IO4: White/Blue wire (SCL)
 
 ## Installation
 
 1. Download the latest firmware release from the [Releases](https://github.com/buddhacontrol/plugger/releases) page
-   - Currently, only Plugger Pro firmware is available
 2. Flash the firmware to your ESP32 using PlatformIO or Arduino IDE
 3. Connect the SHT40 sensor as described above
 4. Power up your device and follow the setup instructions
