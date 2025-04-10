@@ -40,11 +40,11 @@ For Plugger Pro (ESP32 CYD) connect to JSP connector CN1:
 - IO22: Yellow wire (SDA)
 - IO27: White/Blue wire (SCL)
 
-For Plugger Mini (ESP32 CYD) connect to JSP connector CN1:
+For Plugger Mini (ESP32C3) connect to JSP connector CN1:
 - GND: Black wire
 - 3V: Red wire
-- IO3: Yellow wire (SDA)
-- IO4: White/Blue wire (SCL)
+- IO9: Yellow wire (SDA)
+- IO10: White/Blue wire (SCL)
 
 ## Installation
 
