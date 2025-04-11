@@ -51,7 +51,7 @@ For Plugger Mini (ESP32C3) connect to JSP connector CN1:
 
 ## Installation
 
-1. Download the latest firmware release from the [Releases](https://github.com/buddhacontrol/plugger/releases) page
+1. Download the latest firmware release from the [Releases](https://github.com/stefanpledl/buddhacontrol_plugger/releases) page
 2. Flash the firmware to your ESP32 using PlatformIO or Arduino IDE
 3. Connect the SHT40 sensor as described above
 4. Power up your device and follow the setup instructions
