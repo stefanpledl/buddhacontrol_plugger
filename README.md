@@ -37,13 +37,13 @@ This repository contains the open-source firmware for DIY enthusiasts who want t
 
 The SHT40 temperature and humidity sensor connects to the ESP32 as follows:
 
-For Plugger Pro (ESP32 CYD) connect to JSP connector CN1:
+For Plugger Pro (ESP32 CYD) connect to:
 - GND: Black wire
 - 3V: Red wire
 - IO22: Yellow wire (SDA)
 - IO27: White/Blue wire (SCL)
 
-For Plugger Mini (ESP32C3) connect to JSP connector CN1:
+For Plugger Mini (ESP32C3) connect to:
 - GND: Black wire
 - 3V: Red wire
 - IO9: Yellow wire (SDA)
